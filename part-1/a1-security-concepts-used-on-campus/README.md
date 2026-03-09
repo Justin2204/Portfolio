@@ -25,7 +25,8 @@ The purpose of access control is to ensure that only authorised people can enter
 - **How it improves security:**  
   This improves security by reducing the risk of unauthorised entry, theft, disruption, or access to sensitive university areas and resources.
 - **Evidence:**  
-  [Insert photo name / screenshot name / note, e.g. `evidence/access-control-door.jpg`]
+  ![evidence/access-control-door.jpg](https://github.com/Justin2204/Portfolio/blob/main/IMG_5679.jpeg?raw=true)
+  ![evidence/access-control-door.jpg](https://github.com/Justin2204/Portfolio/blob/main/IMG_5679.jpeg?raw=true)
 
 ### 2. Authentication
 - **Security concept:** Authentication
