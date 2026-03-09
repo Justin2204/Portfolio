@@ -74,7 +74,7 @@ The purpose of access control is to ensure that only authorised people can enter
   This improves security by reducing the risk of privacy breaches, unauthorised disclosure, or misuse of sensitive information.
 - **Evidence:**  
   ![evidence/privacy-policy.jpeg](https://github.com/Justin2204/Portfolio/blob/main/Screenshot%202026-03-09%20235213.png?raw=true)
-  ![evidence/privacy-policy.jpeg](https://github.com/Justin2204/Portfolio/blob/main/Screenshot%202026-03-09%20235611.png?raw=true)
+  ![evidence/student-portal.jpeg](https://github.com/Justin2204/Portfolio/blob/main/Screenshot%202026-03-09%20235611.png?raw=true)
 
 ## Evidence included
 This folder includes:
