@@ -1,0 +1,19 @@
+# Environment files
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node dependencies
+node_modules/
+
+# System files
+.DS_Store
+
+# Keys and secrets
+*.pem
+*.key
+
+# Logs
+*.log
